@@ -1,0 +1,5 @@
+#!/bin/sh
+
+CC=clang
+
+$CC -Wall -pedantic -Wextra -g main.c -o main
